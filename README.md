@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Laravel & Moodle Backend Engineer</strong><br/>
   PHP · Python · TypeScript · AWS · Redis · Docker<br/>
-  <em>Open to remote opportunities · Available for contracts in USD</em>
+  <em>Open to remote opportunities · 💼 [LinkedIn](https://linkedin.com/in/andesson)</em>
 </p>
 
 ---
@@ -24,21 +24,25 @@ Python automations that make educational data actionable.
 ## 🛠️ Tech Stack
 
 **Primary**
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Complementary**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 **Infrastructure**
+
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Tools & Practices**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-6DB33F?style=flat&logo=testinglibrary&logoColor=white)
 ![Moodle](https://img.shields.io/badge/Moodle-F98012?style=flat&logo=moodle&logoColor=white)
@@ -61,14 +65,6 @@ Python automations that make educational data actionable.
   <img src="https://github-readme-stats.vercel.app/api?username=aasousa&show_icons=true&theme=github_dark&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasousa&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </p>
-
----
-
-## 📫 Get in Touch
-
-- 💼 [LinkedIn](https://linkedin.com/in/andesson)
-- 📧 aa.sousa@outlook.com
-- 🌐 Open to remote work worldwide
 
 ---
 
