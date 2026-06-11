@@ -3,7 +3,8 @@
 <p align="center">
   <strong>Laravel & Moodle Backend Engineer</strong><br/>
   PHP · Python · TypeScript · AWS · Redis · Docker<br/>
-  <em>Open to remote opportunities · 💼 [LinkedIn](https://linkedin.com/in/andesson)</em>
+  <em>Open to remote opportunities</em><br/>
+  💼 [LinkedIn](https://linkedin.com/in/andesson)
 </p>
 
 ---
