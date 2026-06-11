@@ -4,7 +4,7 @@
   <strong>Laravel & Moodle Backend Engineer</strong><br/>
   PHP · Python · TypeScript · AWS · Redis · Docker<br/>
   <em>Open to remote opportunities</em><br/>
-  💼 [LinkedIn](https://linkedin.com/in/andesson)
+  💼 <a href="https://linkedin.com/in/andesson">LinkedIn</a>
 </p>
 
 ---
