@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Andesson 👋</h1>
 
 <p align="center">
-  <strong>Laravel & Moodle Backend Engineer</strong><br/>
+  <strong>Laravel & Moodle Fullstack Engineer</strong><br/>
   PHP · Python · TypeScript · AWS · Redis · Docker<br/>
   <em>Open to remote opportunities</em><br/>
   💼 <a href="https://linkedin.com/in/andesson">LinkedIn</a>
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-Backend engineer with 5+ years building educational platforms at scale.
+Fullstack engineer with 5+ years building educational platforms at scale.
 I specialize in **Laravel**, **Moodle plugin development**, and **REST API design**
 for LMS environments — currently serving 10,000+ students at UNINTA, one of Brazil's
 largest private universities.
@@ -65,10 +65,4 @@ Python automations that make educational data actionable.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aasousa&show_icons=true&theme=github_dark&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasousa&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
-
----
-
-<p align="center">
-  <em>Building reliable EdTech backends, one commit at a time.</em>
 </p>
